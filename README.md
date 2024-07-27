@@ -9,6 +9,7 @@ bot = telebot.TeleBot('вставьте сюда токен')
 ```
 
 > При наличии идеи и предложений, пишите на почту: florestone4185@internet.ru
+> Библиотеки для работы: `flet`, `pyTelegramBotAPI`.
 
 Мои социальные сети: https://telegra.ph/Socseti-Floresta-06-28
 **Благодарю за внимание!**
